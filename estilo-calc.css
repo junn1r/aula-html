@@ -1,0 +1,48 @@
+html{
+	background: #2196f3;
+	font-family: Arial;
+
+}
+
+body{
+	width: 500px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+
+}
+.caixa-numero{
+	margin: 10px;
+}
+label {
+	font-size: 18px;
+}
+
+#n1, #n2 {
+	padding: 10px;
+	border-radius: 4px;
+}
+.resultado{
+	font-size: 25px;
+	background:#f7e560;
+	border: 3px dotted black;
+
+}
+
+.botao{
+	padding: 7px;
+	border-radius: 10px;
+
+}
+figure.calculadora-fundo{
+	border-radius: 4px solid black;
+	box-shadow: 1px 1px 4px black;
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+
+}
